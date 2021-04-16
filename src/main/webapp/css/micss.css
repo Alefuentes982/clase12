@@ -1,0 +1,12 @@
+body {
+   font-family: sans-serif;
+   background-color: lightyellow;
+   color: black;
+    
+}
+
+.cuadrito{
+    border-style: groove;
+    border-color: white;
+}
+
